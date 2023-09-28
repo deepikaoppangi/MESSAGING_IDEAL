@@ -1,5 +1,9 @@
 # MESSAGING_IDEAL
 
+
+                                                                                                                                                        OPPANGI POOJITA,
+                                                                                                                                                        Computer Science & Engineering ,
+                                                                                                                                                        Indian Institute Of Technology , Jodhpur.
 MESSAGING PROTOTYPE
                                                                               
 Project Overview: This messaging service prototype aims to provide users with a real-time chat experience.

@@ -3,7 +3,7 @@
 
 OPPANGI POOJITA,
 
-Computer Science & Engineering ,
+Computer Science & Engineering Department (CSE),
    
 Indian Institute Of Technology , Jodhpur.
 

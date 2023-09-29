@@ -22,6 +22,7 @@ Deployment Flow:
 	User Profile Update: Enable users to update their profiles with relevant information.  
 	Logout: Implement both frontend and backend logout functionality for users to securely log out of their accounts. 
 	Fetching User Profiles: Resolve any issues related to fetching user profiles through the designated endpoint.
+
 	REST API: Utilized a REST API to enhance data exchange and interactions with external services and clients.
 
 Technologies Used: 
